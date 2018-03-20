@@ -1,3 +1,7 @@
 printf("changes made succesfully");
 
+<<<<<<< HEAD
 printf("master");
+=======
+printf("copytest");
+>>>>>>> copytest
